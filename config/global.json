@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "_default": {
+            "link": "chat"
+        }, 
+        "chat": {
+            "applicationId": "xDHS1AYBGBUPp79SvZj7p5YGxzZC1GP9sFN9f3Ml", 
+            "masterKey": "hLOzsM0lDT0dpUysFVqFNn2DVcKe2gySlbAxLgL8"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.7"
+    }
+}
